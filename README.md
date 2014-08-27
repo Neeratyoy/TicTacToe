@@ -9,4 +9,4 @@ Since its a Markov Decision Process, the next move decided by the computer just 
 
 The computer, based on a victory or defeat keeps updating its 'strategies'. Even when playing a human, it continues to learn.
 
-ps : the printGrid() function will not run in Python2.7 pr below
+ps : the printGrid() function will not run in Python2.7 or below
