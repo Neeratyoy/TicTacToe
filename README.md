@@ -1,7 +1,7 @@
 TicTacToe
 =========
 
-On executing the ttt.py file, the computer learns to play Tic-Tac-Toe to win, by simulating about a half a million games, and is ready to play a human opponent.
+On executing the ttt.py file, the computer learns to play Tic-Tac-Toe, by simulating about a half a million games, and is ready to play a human opponent.
 
 This is a classic use of Reinforcement Learning for Artificial Intelligence.
 
